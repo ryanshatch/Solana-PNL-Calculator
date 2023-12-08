@@ -1,2 +1,4 @@
-*.* linguist-language=python
-*.* linguist-language=Python
+* linguist-language=python
+* linguist-language=Python
+"Solana PNL Calculator" linguist-language=python
+"solpnlcalc" linguist-language=Python
